@@ -1,0 +1,119 @@
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-size: 28px;
+            font-family: "Lato", sans-serif;
+            font-weight: 500;
+            line-height: 1.5em;
+        }
+
+        #first_section {
+            background-image: url(./images/image1.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            background-attachment: fixed;
+        }
+
+        .sub_section {
+            background-color: #313534;
+            height: 70px;
+            width: 416px;
+            color: white;
+            text-align: center;
+            padding: 18px 0px;
+            letter-spacing: 11px;
+            text-transform: uppercase;
+        }
+
+        .sub_section h1 {
+            font-size: 23px;
+        }
+
+        #second_section {
+            background-color: #f4f4f4;
+            height: 265px;
+            padding: 28px 95px;
+
+        }
+
+        .second_section {
+            text-align: center;
+            color: #666;
+        }
+
+        h2 {
+            font-weight: bold;
+        }
+
+        p {
+            margin-top: 15px;
+            font-size: 16px;
+        }
+
+        #third_section {
+            background-image: url(./images/image2.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            background-attachment: fixed;
+        }
+
+        #forth_section {
+            background-color: #282e34;
+            height: 265px;
+            padding: 28px 95px;
+        }
+
+        .forth_section {
+            text-align: center;
+            color: #ddd;
+        }
+
+        #fifth_section {
+            background-image: url(./images/image3.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100vw;
+            background-attachment: fixed;
+        }
+
+        .fifth_section{
+            background-color: #313534;
+            height: 70px;
+            width: 545px;
+            color: white;
+            text-align: center;
+            padding: 18px 0px;
+            letter-spacing: 10px;
+            text-transform: uppercase;
+        }
+
+        .fifth_section h1 {
+            font-size: 23px;
+        }
+
+        #sixth_section {
+            background-color: #282e34;
+            height: 265px;
+            padding: 28px 95px;
+
+        }
+
+        .sixth_section {
+            text-align: center;
+            color: #ddd;
+        }
